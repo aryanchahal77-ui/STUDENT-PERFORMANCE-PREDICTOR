@@ -1,12 +1,12 @@
-🎓STUDENT-PERFORMANCE-PREDICTOR
+🎓**STUDENT-PERFORMANCE-PREDICTOR**
 
 A machine learning project that predicts student academic performance based on various factors such as study habits, attendance, socio-economic background, and more.
 
-📌 Overview
+📌 **Overview**
 
 The Student Performance Predictor is designed to help educators and students understand the key factors that influence academic success. By analyzing historical data, the model predicts a student's future performance and provides insights for improvement.
 
-🚀 Features
+🚀 **Features**
 
 Predict student scores or grades
 Data preprocessing and visualization
@@ -14,7 +14,7 @@ Multiple ML algorithms support (Linear Regression, Decision Tree, etc.)
 Model evaluation metrics (Accuracy, RMSE, etc.)
 Easy-to-use interface (CLI/Web-based, if applicable)
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Programming Language: Python
 Libraries:
@@ -23,7 +23,7 @@ Pandas
 Scikit-learn
 Matplotlib / Seaborn
 
-📂 Project Structure
+📂** Project Structure**
 
 student-performance-predictor/
 │
@@ -39,7 +39,7 @@ student-performance-predictor/
 ├── requirements.txt
 └── README.md
 
-📊 Dataset
+📊 **Dataset**
 
 The dataset typically includes:
 
@@ -51,7 +51,7 @@ The dataset typically includes:
 
 You can use publicly available datasets or your own collected data.
 
-⚙️ Installation
+⚙️** Installation**
 
 1.Clone the repository:
 git clone https://github.com/aryanchahal77-ui/student-performance-predictor.git
@@ -60,7 +60,7 @@ cd student-performance-predictor
 pip install -r requirements.txt
 
 
-📈 Model Evaluation
+📈** Model Evaluation**
 
 Common metrics used:
 
@@ -68,14 +68,14 @@ Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 R² Score
 
-💡 Future Improvements
-
+💡** Future Improvements
+**
 .Add deep learning models
 .Deploy as a web application
 .Integrate real-time student data
 .Improve feature engineering
 
-🤝 Contributing
+🤝** Contributing**
 
 Contributions are welcome!
 
@@ -84,8 +84,8 @@ Contributions are welcome!
 3.Commit your changes
 4.Submit a pull request
 
-📧 Contact
-
+📧** Contact
+**
 For any queries or suggestions, feel free to reach out:
 
 Email: aryanchahal77@gmail.com
