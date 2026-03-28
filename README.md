@@ -24,6 +24,7 @@ Scikit-learn
 Matplotlib / Seaborn
 
 📂** **Project Structure**
+
 student-performance-predictor/
 │
 ├── data/                  # Dataset files
@@ -77,10 +78,10 @@ R² Score
 
 Contributions are welcome!
 
-1.Fork the repository
-2.Create a new branch
-3.Commit your changes
-4.Submit a pull request
+1.Fork the repository.
+2.Create a new branch.
+3.Commit your changes.
+4.Submit a pull request.
 
 📧**Contact**
 For any queries or suggestions, feel free to reach out:
