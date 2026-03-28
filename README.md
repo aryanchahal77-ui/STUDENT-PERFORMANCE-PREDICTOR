@@ -23,7 +23,7 @@ Pandas
 Scikit-learn
 Matplotlib / Seaborn
 
-📂** **Project Structure**
+📂 **Project Structure**
 
 student-performance-predictor/
 │
@@ -79,8 +79,11 @@ R² Score
 Contributions are welcome!
 
 1.Fork the repository.
+
 2.Create a new branch.
+
 3.Commit your changes.
+
 4.Submit a pull request.
 
 📧**Contact**
