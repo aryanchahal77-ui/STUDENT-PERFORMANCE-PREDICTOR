@@ -87,6 +87,7 @@ Contributions are welcome!
 4.Submit a pull request.
 
 📧**Contact**
+
 For any queries or suggestions, feel free to reach out:
 
 Email: aryanchahal77@gmail.com
