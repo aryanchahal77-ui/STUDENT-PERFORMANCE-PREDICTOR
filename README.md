@@ -23,8 +23,7 @@ Pandas
 Scikit-learn
 Matplotlib / Seaborn
 
-📂** Project Structure**
-
+📂** **Project Structure**
 student-performance-predictor/
 │
 ├── data/                  # Dataset files
@@ -51,7 +50,7 @@ The dataset typically includes:
 
 You can use publicly available datasets or your own collected data.
 
-⚙️** Installation**
+⚙️**Installation**
 
 1.Clone the repository:
 git clone https://github.com/aryanchahal77-ui/student-performance-predictor.git
@@ -60,7 +59,7 @@ cd student-performance-predictor
 pip install -r requirements.txt
 
 
-📈** Model Evaluation**
+📈**Model Evaluation**
 
 Common metrics used:
 
@@ -68,14 +67,13 @@ Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 R² Score
 
-💡** Future Improvements
-**
+💡**Future Improvements**
 .Add deep learning models
 .Deploy as a web application
 .Integrate real-time student data
 .Improve feature engineering
 
-🤝** Contributing**
+🤝**Contributing**
 
 Contributions are welcome!
 
@@ -84,8 +82,7 @@ Contributions are welcome!
 3.Commit your changes
 4.Submit a pull request
 
-📧** Contact
-**
+📧**Contact**
 For any queries or suggestions, feel free to reach out:
 
 Email: aryanchahal77@gmail.com
