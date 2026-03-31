@@ -1,4 +1,5 @@
 Student Performance Predictor Project Report
+
 1. Introduction
 
 The Student Performance Predictor is a machine learning-based project designed to predict a student’s academic performance based on various factors such as study time, attendance, and previous academic records. In modern education systems, analyzing student performance manually can be time-consuming and inefficient. This project provides an automated solution to help educators identify students who may need additional support.
@@ -69,6 +70,7 @@ Use advanced algorithms like Random Forest and Neural Networks
 Develop a web-based application
 Integrate real-time student data
 Improve accuracy with larger datasets
+
 12. Conclusion
 
 The Student Performance Predictor is an effective tool that helps in predicting academic outcomes using machine learning. It enables early identification of students who need support, thereby improving overall educational performance.
